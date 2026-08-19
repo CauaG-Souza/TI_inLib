@@ -13,21 +13,22 @@
  
 ## 2. Tema selecionado
 - Comunidade: Pessoas Com Deficiência (PCDs)
-- Necessidade: As PCDs precisam de ter um desempenho melhor e se encaixarem na sociedade funcional
-- Problema: Pessoas Com Deficiência atualmente nao possuem o apoio e o material necessário para aprenderem  
-e estudarem de forma satisfátoria
+- Necessidade: As PCDs precisam de um desempenho melhor para serem incluidas na sociedade funcional
+- Problema: Pessoas Com Deficiência atualmente não possuem o apoio e o material necessário para aprenderem e estudarem de forma suficiente
  
 ## 3. Contextualização do problema
-O problema ocorre principalmente nas escolas, onde muitas PCDs não possuem acesso a materiais adaptados, tecnologias assistivas e apoio adequado.  
-Essa falta de recursos dificulta o aprendizado, a autonomia e a inclusão social, sendo necessário oferecer melhores condições de ensino e suporte.
+O problema ocorre principalmente nas escolas, onde muitas PCDs não possuem acesso a materiais adaptados, tecnologias assistivas e apoio adequado.
+
+No contexto das pessoas com deficiência, é evidente que boa parte dessa população não possui acesso às estruturas tecnológicas de forma acessível, pois é preciso garantir que existam materiais adaptados, professores preparados e tecnologias assistivas disponíveis. Essa falta de recursos dificulta o aprendizado, a autonomia e a inclusão social.
+
+Com os avanços dos meios de comunicação, a inclusão social torna-se cada vez mais relacionada à alfabetização digital, pois ela pavimenta novas possibilidades para esse público comunicar-se e interagir no âmbito social. A inclusão digital não se limita apenas ao acesso a equipamentos adaptados, mas também a um ambiente educacional que possibilite a acessibilidade e o devido ensino.  
  
 ## 4. Evidências iniciais
 Pesquisas mostram que muitas PCDs ainda enfrentam dificuldades para acessar materiais adaptados, tecnologias assistivas e apoio adequado nas escolas.   
 Isso pode prejudicar no aprendizado e na inclusão.
  
 ## 5. Delimitação do problema
-O projeto será focado na dificuldade de acesso a materiais e recursos educacionais adaptados para PCDs,  
-buscando melhorar sua aprendizagem e autonomia em casa e no ambiente escolar.
+O projeto será focado na dificuldade de acesso a materiais e recursos educacionais adaptados para PCDs, buscando melhorar sua aprendizagem e autonomia em casa e no ambiente escolar.
  
 ## 6. Relação com o ODS
 O projeto está relacionado ao ODS 4, que busca garantir uma educação inclusiva, de qualidade e acessível para todos, incluindo as Pessoas com Deficiência.

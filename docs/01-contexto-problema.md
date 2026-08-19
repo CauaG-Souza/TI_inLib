@@ -55,3 +55,6 @@ Dessa forma, o projeto busca proporcionar melhores condições de ensino e supor
 - [\[MEC(politica nacional)\]](https://dadosabertos.mec.gov.br/pneepei?utm_)
 - [\[MEC(materiais especializados)\]](https://dadosabertos.mec.gov.br/sala-de-recursos-pdde?utm_)
 - [\[Ministério do Desenvolvimento Social\]](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/bpc-registra-recorde-de-criancas-e-adolescentes-matriculados-na-escola?utm_)
+- [\[Diário PCD\]](https://diariopcd.com.br/inclusao-ainda-e-desafio-pessoas-com-deficiencia-enfrentam-barreiras-na-alfabetizacao/)
+- [\[IFSP — Revista Compartilhar\]](https://ojs.ifsp.edu.br/index.php/compartilhar/article/download/640/201)
+- [\[Revista PPC\]](https://journalppc.com/RPPC/article/view/2477)

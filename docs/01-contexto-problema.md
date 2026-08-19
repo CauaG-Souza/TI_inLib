@@ -24,8 +24,18 @@ No contexto das pessoas com deficiência, é evidente que boa parte dessa popula
 Com os avanços dos meios de comunicação, a inclusão social torna-se cada vez mais relacionada à alfabetização digital, pois ela pavimenta novas possibilidades para esse público comunicar-se e interagir no âmbito social. A inclusão digital não se limita apenas ao acesso a equipamentos adaptados, mas também a um ambiente educacional que possibilite a acessibilidade e o devido ensino.  
  
 ## 4. Evidências iniciais
-Pesquisas mostram que muitas PCDs ainda enfrentam dificuldades para acessar materiais adaptados, tecnologias assistivas e apoio adequado nas escolas.   
-Isso pode prejudicar no aprendizado e na inclusão.
+Pesquisas mostram que muitas PCDs ainda enfrentam dificuldades para acessar materiais adaptados, tecnologias assistivas e apoio adequado nas escolas.
+
+De acordo com o Censo de 2022, é quase o dobro da média nacional o número de indivíduos com deficiência que não sabem ler e escrever.
+
+Com isso, percebemos: 
+
+- A escassez de livros e materiais em formatos
+acessíveis, como Braille, Libras e leitores de tela;
+- A falta de capacitação dos professores para lidarem com as diferentes deficiências;
+- A infraestrutura tecnológica e educacional insuficiente.
+
+Isso pode prejudicar o aprendizado, a autonomia e a inclusão.
  
 ## 5. Delimitação do problema
 O projeto será focado na dificuldade de acesso a materiais e recursos educacionais adaptados para PCDs, buscando melhorar sua aprendizagem e autonomia em casa e no ambiente escolar.

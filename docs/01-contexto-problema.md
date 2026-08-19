@@ -39,6 +39,10 @@ Isso pode prejudicar o aprendizado, a autonomia e a inclusão.
  
 ## 5. Delimitação do problema
 O projeto será focado na dificuldade de acesso a materiais e recursos educacionais adaptados para PCDs, buscando melhorar sua aprendizagem e autonomia em casa e no ambiente escolar.
+
+Visando a presente lacuna na educação para as pessoas com deficiência, entendemos que o problema está relacionado à falta de métodos e ferramentas que auxiliem seu desenvolvimento acadêmico e sua interação com o mundo digital.
+
+Desse modo, o problema do nosso projeto seria a dificuldade de acesso a recursos digitais acessíveis para pessoas com deficiência, especialmente no ambiente educacional, que atendam às suas demandas específicas. 
  
 ## 6. Relação com o ODS
 O projeto está relacionado ao ODS 4, que busca garantir uma educação inclusiva, de qualidade e acessível para todos, incluindo as Pessoas com Deficiência.

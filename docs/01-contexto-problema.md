@@ -45,7 +45,9 @@ Visando a presente lacuna na educação para as pessoas com deficiência, entend
 Desse modo, o problema do nosso projeto seria a dificuldade de acesso a recursos digitais acessíveis para pessoas com deficiência, especialmente no ambiente educacional, que atendam às suas demandas específicas. 
  
 ## 6. Relação com o ODS
-O projeto está relacionado ao ODS 4, que busca garantir uma educação inclusiva, de qualidade e acessível para todos, incluindo as Pessoas com Deficiência.
+O projeto está relacionado ao ODS 4 — Educação de Qualidade, porque, para existir uma educação de qualidade, é necessário que o ensino englobe todos os grupos sociais, de acordo com suas diferenças e necessidades específicas.
+
+Dessa forma, o projeto busca proporcionar melhores condições de ensino e suporte, contribuindo para um aprendizado digno, inclusivo e acessível para as Pessoas com Deficiência.
  
 ## 7. Fontes consultadas
 - [\[UNESCO\]](https://www.unesco.org/en/articles/hacia-una-educacion-sin-barreras-avances-y-desafios-en-la-educacion-inclusiva-que-evidencian-los-0?hub=66920&utm_)

@@ -12,14 +12,15 @@
 - ODS: **4** Educação de qualidade
  
 ## 2. Tema selecionado
-- Comunidade: Pessoas Com Deficiência (PCDs)
-- Necessidade: As PCDs precisam de ter um desempenho melhor e se encaixarem na sociedade funcional
-- Problema: Pessoas Com Deficiência atualmente nao possuem o apoio e o material necessário para aprenderem  
-e estudarem de forma satisfátoria
+- Comunidade: Crianças com Síndrome de Down e Autismo.
+- Necessidade: Precisam de metodologias que melhoram a autonomia e a inclusão, como materiais adaptados,   ensino individualizado, trabalhar a consciência fonológica, além de profissionais que sejam capacitados para lidar com essas crianças com deficiência intelectual.  
+- Problema: Crianças com Síndrome de Down e Autismo enfrentam dificuldades em ser alfabetizados. 
+
  
 ## 3. Contextualização do problema
-O problema ocorre principalmente nas escolas, onde muitas PCDs não possuem acesso a materiais adaptados, tecnologias assistivas e apoio adequado.  
-Essa falta de recursos dificulta o aprendizado, a autonomia e a inclusão social, sendo necessário oferecer melhores condições de ensino e suporte.
+No contexto atual, há melhoras significativas na educação brasileira, em que a maioria das pessoas tem contato, pelo menos com o ensino básico, e que as crianças conseguem aprender a ler e escrever de forma orgânica. Entretanto, sabe-se que as crianças com Síndrome de Down e autistas, especificamente falando, sofrem com barreiras que perpetuam no que diz respeito a sua alfabetização, pois, por causa de sua deficiência intelectual, muitas vezes, tem o seu ensino negligenciado pelas escolas, principalmente as escolas públicas, em que não tem recursos, como professores capacitados, metodologias de ensino, que consigam dar assistência para esses indivíduos neurodivergentes, que necessitam de atenção e cuidados mais específicos, sendo a sua alfabetização, muito importante pra conviver em sociedade.
+
+Além disso, é válido afirmar que, por conta de suas diferenças, são relativamente estigmatizados pela sociedade, no sentido de essas crianças não conseguem desenvolver a sua capacidade intelectual como as crianças neuro típicas, e que essa corrente de pensamento, fomenta o desleixo na alfabetização desse público.      
  
 ## 4. Evidências iniciais
 Pesquisas mostram que muitas PCDs ainda enfrentam dificuldades para acessar materiais adaptados, tecnologias assistivas e apoio adequado nas escolas.   

@@ -9,31 +9,34 @@
     - João Pedro Toledo Magalhães Castro
     - Pedro Teodoro Goulart Santana
     - Yago Teixeira Almeida Nascimento
+
 - ODS: **4** Educação de qualidade
  
 ## 2. Tema selecionado
-- Comunidade: Crianças com Síndrome de Down e Autismo.
-- Necessidade: Precisam de metodologias que melhoram a autonomia e a inclusão, como materiais adaptados,   ensino individualizado, trabalhar a consciência fonológica, além de profissionais que sejam capacitados para lidar com essas crianças com deficiência intelectual.  
-- Problema: Crianças com Síndrome de Down e Autismo enfrentam dificuldades em ser alfabetizados. 
+- Comunidade: Crianças com Síndrome de Down e Transtorno do Espectro Autista (TEA) no contexto escolar.
+
+- Necessidade: Essas crianças necessitam de recursos pedagógicos adaptados e estratégias de ensino que considerem suas necessidades individuais, favorecendo o desenvolvimento da aprendizagem, da autonomia e da participação no ambiente escolar.  
+
+- Problema: A dificuldade de acesso a materiais pedagógicos adaptados e a estratégias de ensino adequadas pode dificultar o processo de aprendizagem e a inclusão de crianças com Síndrome de Down e TEA no ambiente escolar.
 
  
 ## 3. Contextualização do problema
-No contexto atual, há melhoras significativas na educação brasileira, em que a maioria das pessoas tem contato, pelo menos com o ensino básico, e que as crianças conseguem aprender a ler e escrever de forma orgânica. Entretanto, sabe-se que as crianças com Síndrome de Down e autistas, especificamente falando, sofrem com barreiras que perpetuam no que diz respeito a sua alfabetização, pois, por causa de sua deficiência intelectual, muitas vezes, tem o seu ensino negligenciado pelas escolas, principalmente as escolas públicas, em que não tem recursos, como professores capacitados, metodologias de ensino, que consigam dar assistência para esses indivíduos neurodivergentes, que necessitam de atenção e cuidados mais específicos, sendo a sua alfabetização, muito importante pra conviver em sociedade.
+A educação inclusiva busca garantir que todos os estudantes tenham acesso à aprendizagem e possam participar do ambiente escolar de forma adequada. Para crianças com Síndrome de Down e Transtorno do Espectro Autista (TEA), esse processo pode exigir estratégias de ensino, recursos pedagógicos e formas de acompanhamento que considerem suas necessidades individuais.
 
-Além disso, é válido afirmar que, por conta de suas diferenças, são relativamente estigmatizados pela sociedade, no sentido de essas crianças não conseguem desenvolver a sua capacidade intelectual como as crianças neuro típicas, e que essa corrente de pensamento, fomenta o desleixo na alfabetização desse público.      
- 
+Entretanto, a inclusão escolar não depende apenas da presença dessas crianças na escola. É necessário que professores e demais profissionais tenham acesso a recursos e estratégias que auxiliem no desenvolvimento das atividades pedagógicas. A ausência ou dificuldade de acesso a materiais adaptados pode tornar o processo de ensino e aprendizagem mais desafiador, tanto para os estudantes quanto para os profissionais responsáveis por seu acompanhamento.
+
 ## 4. Evidências iniciais
-- Pesquisas mostram que muitas PCDs ainda enfrentam dificuldades para terem seus direitos concedidos em relação a apoio adequado nas escolas e materiais adaptados prejudicando o aprendizado e a inclusão.  
-- Os tutores das escolas nao apresentam qualificação suficiente para lidar com o ensino dessas crianças que possuem necessidades especiais das demais crianças.  
-- Muitos  docentes relataram  insegurança quanto às práticas pedagógicas voltadas a crianças com deficiência, reforçando a necessidade de capacitação específica em educação inclusiva.  
-- Identificou-se ainda uma forte demanda por planejamento pedagógico individualizado, respeitando  os  ritmos e estilos  de aprendizagem  dos  alunos.  
+- Estudos apontam a importância de utilizar recursos e estratégias pedagógicas adaptadas às necessidades de estudantes com Síndrome de Down e TEA.
+- A formação dos professores é um fator importante para a construção de práticas pedagógicas mais inclusivas e adequadas às necessidades dos estudantes.
+- O planejamento individualizado e a adaptação de atividades podem contribuir para o desenvolvimento da aprendizagem e da autonomia das crianças.
+- Essas evidências reforçam a importância de facilitar o acesso a materiais e recursos pedagógicos que possam auxiliar professores e estudantes no processo de inclusão escolar.  
+- **"Identificou-se ainda uma forte demanda por planejamento pedagógico individualizado, respeitando  os  ritmos e estilos  de aprendizagem  dos  alunos. "** <ins>[Revista Ibero]</ins>
  
 ## 5. Delimitação do problema
-O projeto será focado na dificuldade de acesso a materiais e recursos educacionais adaptados para PCDs, assim como fomentar a capacitação na aprendizagem e melhorar a forma como os docentes repassam o conteúdo para os alunos 
-buscando melhorar sua aprendizagem e autonomia em casa e no ambiente escolar.
- 
+O projeto será focado na dificuldade de acesso a materiais e recursos pedagógicos adaptados para crianças com Síndrome de Down e Transtorno do Espectro Autista (TEA). O objetivo é facilitar o acesso a esses recursos, auxiliando professores e familiares no processo de aprendizagem e contribuindo para a autonomia e a inclusão das crianças no ambiente escolar.
+
 ## 6. Relação com o ODS
-O projeto está relacionado ao ODS 4, que busca garantir uma educação inclusiva, de qualidade e acessível para todos, incluindo as Pessoas com Deficiência.
+O projeto está relacionado ao ODS 4 — Educação de Qualidade, que busca garantir uma educação inclusiva, equitativa e de qualidade para todos facilitando o acesso a recursos pedagógicos adaptados, promovendo melhores condições de aprendizagem e inclusão para crianças com Síndrome de Down e TEA.
  
 ## 7. Fontes consultadas
 - [\[AUTISMOEREALIDADE\]](https://autismoerealidade.org.br/2025/02/17/a-importancia-da-inclusao-escolar-para-criancas-e-jovens-com-autismo/)

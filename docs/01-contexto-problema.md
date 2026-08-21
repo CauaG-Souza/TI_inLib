@@ -36,10 +36,8 @@ buscando melhorar sua aprendizagem e autonomia em casa e no ambiente escolar.
 O projeto está relacionado ao ODS 4, que busca garantir uma educação inclusiva, de qualidade e acessível para todos, incluindo as Pessoas com Deficiência.
  
 ## 7. Fontes consultadas
-- [\[UNESCO\]](https://www.unesco.org/en/articles/hacia-una-educacion-sin-barreras-avances-y-desafios-en-la-educacion-inclusiva-que-evidencian-los-0?hub=66920&)
-- [\[INEP\]](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar?)
-- [\[MEC(politica nacional)\]](https://dadosabertos.mec.gov.br/pneepei?)
-- [\[MEC(materiais especializados)\]](https://dadosabertos.mec.gov.br/sala-de-recursos-pdde?)
-- [\[Ministério do Desenvolvimento Social\]](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/bpc-registra-recorde-de-criancas-e-adolescentes-matriculados-na-escola?)
+- [\[AUTISMOEREALIDADE\]](https://autismoerealidade.org.br/2025/02/17/a-importancia-da-inclusao-escolar-para-criancas-e-jovens-com-autismo/)
 - [\[SED\]](https://ensinosuperior.sed.sc.gov.br/index.php/pos-graduacao/trabalhos-de-conclusao-de-bolsistas/trabalhos-de-conclusao-de-bolsistas-a-partir-de-2018/ciencias-humanas/especializacao-4/807-a-inclusao-escolar-de-criancas-com-sindrome-de-down/file) 
 - [\[Revista Ibero\]](https://periodicorease.pro.br/rease/article/view/19528/11672)
+- [\[PEPSIC\]](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1519-03072020000100002)
+- [\[Rhema TEA\]](https://rhemaneuroeducacao.com.br/blog/tecnologias-digitais-no-desenvolvimento-de-criancas-com-tea/) / [\[Rhema SD\]](https://rhemaneuroeducacao.com.br/blog/sindrome-de-down-intervencoes-pedagogicas/)

@@ -9,52 +9,38 @@
     - João Pedro Toledo Magalhães Castro
     - Pedro Teodoro Goulart Santana
     - Yago Teixeira Almeida Nascimento
+
 - ODS: **4** Educação de qualidade
  
 ## 2. Tema selecionado
-- Comunidade: Pessoas Com Deficiência (PCDs)
-- Necessidade: As PCDs precisam de um desempenho melhor para serem incluidas na sociedade funcional
-- Problema: Pessoas Com Deficiência atualmente não possuem o apoio e o material necessário para aprenderem e estudarem de forma suficiente
+- Comunidade: Crianças com Síndrome de Down e Transtorno do Espectro Autista (TEA) no contexto escolar.
+
+- Necessidade: Essas crianças necessitam de recursos pedagógicos adaptados e estratégias de ensino que considerem suas necessidades individuais, favorecendo o desenvolvimento da aprendizagem, da autonomia e da participação no ambiente escolar.  
+
+- Problema: A dificuldade de acesso a materiais pedagógicos adaptados e a estratégias de ensino adequadas pode dificultar o processo de aprendizagem e a inclusão de crianças com Síndrome de Down e TEA no ambiente escolar.
+
  
 ## 3. Contextualização do problema
-O problema ocorre principalmente nas escolas, onde muitas PCDs não possuem acesso a materiais adaptados, tecnologias assistivas e apoio adequado.
+A educação inclusiva busca garantir que todos os estudantes tenham acesso à aprendizagem e possam participar do ambiente escolar de forma adequada. Para crianças com Síndrome de Down e Transtorno do Espectro Autista (TEA), esse processo pode exigir estratégias de ensino, recursos pedagógicos e formas de acompanhamento que considerem suas necessidades individuais.
 
-No contexto das pessoas com deficiência, é evidente que boa parte dessa população não possui acesso às estruturas tecnológicas de forma acessível, pois é preciso garantir que existam materiais adaptados, professores preparados e tecnologias assistivas disponíveis. Essa falta de recursos dificulta o aprendizado, a autonomia e a inclusão social.
+Entretanto, a inclusão escolar não depende apenas da presença dessas crianças na escola. É necessário que professores e demais profissionais tenham acesso a recursos e estratégias que auxiliem no desenvolvimento das atividades pedagógicas. A ausência ou dificuldade de acesso a materiais adaptados pode tornar o processo de ensino e aprendizagem mais desafiador, tanto para os estudantes quanto para os profissionais responsáveis por seu acompanhamento.
 
-Com os avanços dos meios de comunicação, a inclusão social torna-se cada vez mais relacionada à alfabetização digital, pois ela pavimenta novas possibilidades para esse público comunicar-se e interagir no âmbito social. A inclusão digital não se limita apenas ao acesso a equipamentos adaptados, mas também a um ambiente educacional que possibilite a acessibilidade e o devido ensino.  
- 
 ## 4. Evidências iniciais
-Pesquisas mostram que muitas PCDs ainda enfrentam dificuldades para acessar materiais adaptados, tecnologias assistivas e apoio adequado nas escolas.
-
-De acordo com o Censo de 2022, é quase o dobro da média nacional o número de indivíduos com deficiência que não sabem ler e escrever.
-
-Com isso, percebemos: 
-
-- A escassez de livros e materiais em formatos
-acessíveis, como Braille, Libras e leitores de tela;
-- A falta de capacitação dos professores para lidarem com as diferentes deficiências;
-- A infraestrutura tecnológica e educacional insuficiente.
-
-Isso pode prejudicar o aprendizado, a autonomia e a inclusão.
+- Estudos apontam a importância de utilizar recursos e estratégias pedagógicas adaptadas às necessidades de estudantes com Síndrome de Down e TEA.
+- A formação dos professores é um fator importante para a construção de práticas pedagógicas mais inclusivas e adequadas às necessidades dos estudantes.
+- O planejamento individualizado e a adaptação de atividades podem contribuir para o desenvolvimento da aprendizagem e da autonomia das crianças.
+- Essas evidências reforçam a importância de facilitar o acesso a materiais e recursos pedagógicos que possam auxiliar professores e estudantes no processo de inclusão escolar.  
+- **"Identificou-se ainda uma forte demanda por planejamento pedagógico individualizado, respeitando  os  ritmos e estilos  de aprendizagem  dos  alunos. "** <ins>[Revista Ibero]</ins>
  
 ## 5. Delimitação do problema
-O projeto será focado na dificuldade de acesso a materiais e recursos educacionais adaptados para PCDs, buscando melhorar sua aprendizagem e autonomia em casa e no ambiente escolar.
+O projeto será focado na dificuldade de acesso a materiais e recursos pedagógicos adaptados para crianças com Síndrome de Down e Transtorno do Espectro Autista (TEA). O objetivo é facilitar o acesso a esses recursos, auxiliando professores e familiares no processo de aprendizagem e contribuindo para a autonomia e a inclusão das crianças no ambiente escolar.
 
-Visando a presente lacuna na educação para as pessoas com deficiência, entendemos que o problema está relacionado à falta de métodos e ferramentas que auxiliem seu desenvolvimento acadêmico e sua interação com o mundo digital.
-
-Desse modo, o problema do nosso projeto seria a dificuldade de acesso a recursos digitais acessíveis para pessoas com deficiência, especialmente no ambiente educacional, que atendam às suas demandas específicas. 
- 
 ## 6. Relação com o ODS
-O projeto está relacionado ao ODS 4 — Educação de Qualidade, porque, para existir uma educação de qualidade, é necessário que o ensino englobe todos os grupos sociais, de acordo com suas diferenças e necessidades específicas.
-
-Dessa forma, o projeto busca proporcionar melhores condições de ensino e suporte, contribuindo para um aprendizado digno, inclusivo e acessível para as Pessoas com Deficiência.
+O projeto está relacionado ao ODS 4 — Educação de Qualidade, que busca garantir uma educação inclusiva, equitativa e de qualidade para todos facilitando o acesso a recursos pedagógicos adaptados, promovendo melhores condições de aprendizagem e inclusão para crianças com Síndrome de Down e TEA.
  
 ## 7. Fontes consultadas
-- [\[UNESCO\]](https://www.unesco.org/en/articles/hacia-una-educacion-sin-barreras-avances-y-desafios-en-la-educacion-inclusiva-que-evidencian-los-0?hub=66920&utm_)
-- [\[INEP\]](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar?utm_)
-- [\[MEC(politica nacional)\]](https://dadosabertos.mec.gov.br/pneepei?utm_)
-- [\[MEC(materiais especializados)\]](https://dadosabertos.mec.gov.br/sala-de-recursos-pdde?utm_)
-- [\[Ministério do Desenvolvimento Social\]](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/bpc-registra-recorde-de-criancas-e-adolescentes-matriculados-na-escola?utm_)
-- [\[Diário PCD\]](https://diariopcd.com.br/inclusao-ainda-e-desafio-pessoas-com-deficiencia-enfrentam-barreiras-na-alfabetizacao/)
-- [\[IFSP — Revista Compartilhar\]](https://ojs.ifsp.edu.br/index.php/compartilhar/article/download/640/201)
-- [\[Revista PPC\]](https://journalppc.com/RPPC/article/view/2477)
+- [\[AUTISMOEREALIDADE\]](https://autismoerealidade.org.br/2025/02/17/a-importancia-da-inclusao-escolar-para-criancas-e-jovens-com-autismo/)
+- [\[SED\]](https://ensinosuperior.sed.sc.gov.br/index.php/pos-graduacao/trabalhos-de-conclusao-de-bolsistas/trabalhos-de-conclusao-de-bolsistas-a-partir-de-2018/ciencias-humanas/especializacao-4/807-a-inclusao-escolar-de-criancas-com-sindrome-de-down/file) 
+- [\[Revista Ibero\]](https://periodicorease.pro.br/rease/article/view/19528/11672)
+- [\[PEPSIC\]](https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1519-03072020000100002)
+- [\[Rhema TEA\]](https://rhemaneuroeducacao.com.br/blog/tecnologias-digitais-no-desenvolvimento-de-criancas-com-tea/) / [\[Rhema SD\]](https://rhemaneuroeducacao.com.br/blog/sindrome-de-down-intervencoes-pedagogicas/)

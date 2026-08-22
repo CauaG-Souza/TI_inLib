@@ -1,4 +1,4 @@
-# Projeto para a alfabetização de Pessoas Com Deficiência (PCDs)
+# Projeto para a alfabetização de Crianças com Síndrome de Down e Autismo (SD e TEA)
 ## Nome da equipe: **inLib**
 ### Nome do projeto: <ins>inLib</ins>
 

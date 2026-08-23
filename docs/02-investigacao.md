@@ -1,6 +1,7 @@
 # Investigação do Problema e Brainstorming
- 
+
 ## 1. Atores envolvidos
+
 ### Ator 1
 - Quem é: Crianças e estudantes com Transtorno do Espectro Autista (TEA) ou Síndrome de Down.
 - Relação com o problema: São os principais afetados pelas dificuldades de inclusão e aprendizagem no ambiente escolar. Toda deficiência no sistema de ensino inclusivo os afetará diretamente e pessoalmente. É o grupo para o qual as ações mitigadoras deverão ser majoritariamente voltadas. 

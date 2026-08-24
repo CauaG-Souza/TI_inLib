@@ -72,7 +72,7 @@ Necessidade de estratégias de ensino adaptadas às necessidades individuais: a 
 - Necessidade relacionada: Necessidade de facilitar o acesso dos educadores a materiais pedagógicos adaptados, considerando que muitos recursos e informações encontram-se dispersos em diferentes plataformas e instituições.
 
 - Ideia 4: Disponibilizar orientações e estratégias pedagógicas para auxiliar professores no planejamento das aulas.
-- Necessidade relacionada: Necessidade de oferecer suporte aos professores para a escolha, adaptação e aplicação de estratégias pedagógicas adequadas às necessidades dos estudantes com TEA e Síndrome de Down. 
+- Necessidade relacionada: Necessidade de oferecer suporte para os professores para a escolha, adaptação e aplicação de estratégias pedagógicas adequadas às necessidades dos estudantes com TEA e Síndrome de Down. 
  
 ## 7. Síntese das possibilidades
 As ideias 1 e 2 podem ser agrupadas em uma única possibilidade: uma plataforma digital de alfabetização adaptativa que identifique o nível de aprendizagem do estudante e ofereça atividades relacionadas ao seu cotidiano, utilizando palavras, imagens e situações familiares.

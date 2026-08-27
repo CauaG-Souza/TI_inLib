@@ -23,9 +23,9 @@
 
 ---
 
-### HU02 — [Compartilhar materiais com familiares]
+### HU02 — [Compartilhar materiais com responsáveis]
 
-- **Ator relacionado:** Familiar 
+- **Ator relacionado:** Responsável legal 
 - **Necessidade relacionada:** Ter acesso a recursos que possam auxiliar na aprendizagem da criança fora do ambiente escolar.
 
 **História:**
@@ -48,9 +48,9 @@
 
 ### Histórias incluídas no MVP
 
-- [HU01 — título]
-- [HU02 — título]
+- [HU01 — Buscar materiais pedagógicos adaptados]
+- [HU02 — Compartilhar materiais com resposáveis]
 
 ### Resumo do MVP
 
-[Explique o que o usuário deverá conseguir realizar na primeira versão funcional do produto.]
+A primeira versão funcional do inLib deverá facilitar o acesso de professores e responsáveis legais a materiais e recursos pedagógicos adaptados para crianças com Síndrome de Down e Transtorno do Espectro Autista (TEA). O sistema deverá permitir que o professor pesquise e filtre materiais de acordo com o público e as necessidades de aprendizagem, visualize suas informações e acesse os recursos disponíveis.

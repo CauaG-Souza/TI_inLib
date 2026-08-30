@@ -12,8 +12,7 @@
 **Critérios de aceitação:**
 
 - O usuário deve conseguir pesquisar materiais disponíveis na plataforma.
-- O sistema deve permitir a busca por nome ou palavra-chave.
-- O sistema deve apresentar os materiais relacionados à pesquisa.
+- O usuário deve onseguir buscar o material por nome ou palavra-chave.
 - O usuário deve conseguir visualizar as informações do material encontrado.
 
 **Prioridade:** Essencial
@@ -33,9 +32,9 @@
 **Critérios de aceitação:**
 
 - O usuário deve conseguir criar o perfil de um aluno do zero, tendo nome e idade, restrito de 6 a 12 anos.
-- O sistema deve fornecer um editor ou formulário estruturado para preencher metas, estratégias pedagógicas e cronogramas para o aluno.
-- Deve ser possível registrar notas de evolução ou checklist de metas alcançadas dentro do planejamento.
-- O sistema deve permitir gerar e baixar o planejamento em formato PDF ou outro arquivo legível, para que o usuário possa imprimir ou enviar por e-mail.
+- O usuário deve ser capaz de acessar um editor ou formulário estruturado para preencher metas, estratégias pedagógicas e cronogramas para o aluno.
+- O usuário deve conseguir registrar notas de evolução ou checklist de metas alcançadas dentro do planejamento.
+- O usuário deve ser capaz de gerar e baixar o planejamento em formato PDF ou outro arquivo legível, para que possa imprimir ou enviar por e-mail.
 
 **Prioridade:** Importante
 **Faz parte do MVP:** Não
@@ -43,6 +42,27 @@
 ---
 
 ### História 03 — [Compartilhar materiais com responsáveis]
+
+- **Ator relacionado:** Responsável legal 
+- **Necessidade relacionada:** Ter acesso ao acompanhamento de aprendizagem da criança.
+
+**História:**
+
+> Como familiar, quero acessar materiais pedagógicos recomendados para a criança, para contribuir com seu processo de aprendizagem e desenvolvimento em casa.
+
+**Critérios de aceitação:**
+
+- O familiar deve conseguir acessar os materiais disponibilizados para ele.
+- O usuário deve ser capaz de ler as informações sobre a utilização do material.
+- O familiar deve conseguir visualizar os recursos compartilhados pelo docente.
+- O familiar deve conseguir acompanhar o nível de aprendizagem da criança conforme compartilhado pela plataforma.
+
+**Prioridade:** Importante
+**Faz parte do MVP:** Sim
+
+---
+
+### História 04 — [Lecionar material disponível na plataforma em casa]
 
 - **Ator relacionado:** Responsável legal 
 - **Necessidade relacionada:** Ter acesso a recursos que possam auxiliar na aprendizagem da criança fora do ambiente escolar.
@@ -53,12 +73,12 @@
 
 **Critérios de aceitação:**
 
-- O familiar deve conseguir acessar os materiais disponibilizados para ele.
-- O sistema deve apresentar informações sobre a utilização do material.
-- O familiar deve conseguir visualizar os recursos compartilhados pelo professor.
+- O familiar deve conseguir fácil acesso aos materiais de estudo direcionado para atividades em casa.
+- O usuário deve ser capaz de projetar atividades para a criança com o conteúdo disponibilizado.
+- O familiar deve conseguir compartilhar com o docente o que foi feito fora de ambiente escolar.
 
-**Prioridade:** Importante
-**Faz parte do MVP:** Sim
+**Prioridade:** Futuro
+**Faz parte do MVP:** Não
 
 
 ---
@@ -67,8 +87,8 @@
 
 ### Histórias incluídas no MVP
 
-- [História 01 — Buscar materiais pedagógicos adaptados]
-- [História 02 — Compartilhar materiais com resposáveis]
+- [História 01 — Buscar materiais pedagógicos adaptados para estudantes com Síndrome de Down e TEA]
+- [História 03 — Compartilhar materiais com responsáveis]
 
 ### Resumo do MVP
 

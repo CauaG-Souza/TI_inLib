@@ -64,6 +64,27 @@
 ### História 04 — Lecionar material disponível na plataforma em casa
 
 - **Ator relacionado:** Responsável legal 
+- **Necessidade relacionada:** Ter acesso ao acompanhamento de aprendizagem da criança.
+
+**História:**
+
+> Como familiar, quero acessar materiais pedagógicos recomendados para a criança, para contribuir com seu processo de aprendizagem e desenvolvimento em casa.
+
+**Critérios de aceitação:**
+
+- O familiar deve conseguir acessar os materiais disponibilizados para ele.
+- O usuário deve ser capaz de ler as informações sobre a utilização do material.
+- O familiar deve conseguir visualizar os recursos compartilhados pelo docente.
+- O familiar deve conseguir acompanhar o nível de aprendizagem da criança conforme compartilhado pela plataforma.
+
+**Prioridade:** Importante
+**Faz parte do MVP:** Sim
+
+---
+
+### História 04 — [Lecionar material disponível na plataforma em casa]
+
+- **Ator relacionado:** Responsável legal 
 - **Necessidade relacionada:** Ter acesso a recursos que possam auxiliar na aprendizagem da criança fora do ambiente escolar.
 
 **História:**

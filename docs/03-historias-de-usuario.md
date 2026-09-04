@@ -7,12 +7,13 @@
 
 **História:**
 
-> Como educador, quero pesquisar materiais pedagógicos adaptados, para encontrar recursos que possam ser utilizados com crianças com Síndrome de Down e TEA
+> Como professor que atua com estudantes com Síndrome de Down e TEA, quero pesquisar materiais pedagógicos adaptados, para encontrar recursos que possam ser utilizados com crianças com Síndrome de Down e TEA
 
 **Critérios de aceitação:**
 
-- O usuário deve conseguir pesquisar materiais disponíveis na plataforma.
-- O usuário deve onseguir buscar o material por nome ou palavra-chave.
+- O usuário deve conseguir pesquisar materiais por nome ou palavra-chave.
+- O usuário deve conseguir filtrar os materiais de acordo com características disponíveis na plataforma.
+- O sistema deve apresentar os materiais correspondentes à pesquisa ou aos filtros selecionados.
 - O usuário deve conseguir visualizar as informações do material encontrado.
 
 **Prioridade:** Essencial
@@ -27,7 +28,7 @@
 
 **História:**
 
-> Como professor, quero um modelo prático de planejamento educacional individualizado que permita a sua criação e gerenciamento de forma  simples e ágil, para garantir o direito real de aprender da criança com Síndrome de Down e Autismo no seu próprio ritmo.
+> Como professor que atua com estudantes com Síndrome de Down e TEA, quero um modelo prático de planejamento educacional individualizado que permita a sua criação e gerenciamento de forma  simples e ágil, para garantir o direito real de aprender da criança com Síndrome de Down e Autismo no seu próprio ritmo.
 
 **Critérios de aceitação:**
 
@@ -44,7 +45,7 @@
 ### História 03 — Acesso aos materiais pelos responsáveis
 
 - **Ator relacionado:** Responsável legal 
-- **Necessidade relacionada:** Ter acesso ao acompanhamento de aprendizagem da criança.
+- **Necessidade relacionada:** Ter acesso a materiais pedagógicos adaptados que possam auxiliar no processo de aprendizagem da criança.
 
 **História:**
 
@@ -56,7 +57,7 @@
 - O usuário deve ser capaz de ler as informações sobre a utilização do material.
 - O familiar deve conseguir visualizar os recursos pedagógicos adaptados para a criança.
 
-**Prioridade:** Importante
+**Prioridade:** Essencial
 **Faz parte do MVP:** Sim
 
 ---
@@ -79,25 +80,6 @@
 
 **Prioridade:** Importante
 **Faz parte do MVP:** Sim
-
----
-
-### História 04 — [Lecionar material disponível na plataforma em casa]
-
-- **Ator relacionado:** Responsável legal 
-- **Necessidade relacionada:** Ter acesso a recursos que possam auxiliar na aprendizagem da criança fora do ambiente escolar.
-
-**História:**
-
-> Como familiar, quero acessar materiais pedagógicos recomendados para a criança, para contribuir com seu processo de aprendizagem e desenvolvimento em casa.
-
-**Critérios de aceitação:**
-
-- O familiar deve conseguir fácil acesso aos materiais de estudo direcionado para atividades em casa.
-- O familiar deve conseguir compartilhar com o docente o que foi feito fora de ambiente escolar.
-
-**Prioridade:** Futuro
-**Faz parte do MVP:** Não
 
 ### História 05 — Acompanhamento do nível de aprendizagem
 
@@ -124,7 +106,7 @@
 
 **História:**
 
-> Como professor, quero ter a liberdade de criar atividades na plataforma a partir dos materiais pedagógicos disponibilizados, para que crianças com Síndrome de Down e Autismo tenham acesso a exercícios voltados para as suas necessidades específicas.
+> Como professor que atua com estudantes com Síndrome de Down e TEA, quero ter a liberdade de criar atividades na plataforma a partir dos materiais pedagógicos disponibilizados, para que crianças com Síndrome de Down e Autismo tenham acesso a exercícios voltados para as suas necessidades específicas.
 
 **Critérios de aceitação:**
 
@@ -152,15 +134,74 @@
 
 **Prioridade:** Futuro
 **Faz parte do MVP:** Não
----
+
+### História 08 — Cadastro de professor
+
+- **Ator relacionado:** Corpo Docente
+- **Necessidade relacionada:** Necessidade de acesso a recursos pedagógicos e suporte que auxiliem o professor no desenvolvimento de práticas adequadas para estudantes com TEA e Síndrome de Down.
+
+**História:**
+
+> Como professor que atua com estudantes com Síndrome de Down e TEA, quero efetuar o meu cadastro na plataforma, para ter acesso aos materiais e recursos pedagógicos disponibilizados pelo sistema.
+
+**Critérios de aceitação:**
+
+- O professor deve conseguir acessar a tela de cadastro.
+- O professor deve conseguir informar seus dados para criar uma conta.
+- O sistema deve validar os campos obrigatórios do cadastro.
+- O sistema deve impedir o cadastro quando houver informações       obrigatórias inválidas ou ausentes.
+
+**Prioridade:** Essencial
+**Faz parte do MVP:** Sim
+
+### História 09 — Cadastro de responsável
+
+- **Ator relacionado:** Responsável Legal 
+- **Necessidade relacionada:** Necessidade de acesso a materiais adaptados e suporte que auxiliem a família no acompanhamento e na aprendizagem da criança em casa.
+
+**História:**
+
+> Como familiar, quero realizar meu cadastro na plataforma, para ter acesso aos materiais e recursos pedagógicos disponíveis para auxiliar a criança em seu processo de aprendizagem.
+
+**Critérios de aceitação:**
+
+- O responsável deve conseguir acessar a tela de cadastro.
+- O responsável deve conseguir informar seus dados para criar uma conta.
+- O sistema deve validar os campos obrigatórios do cadastro.
+- O sistema deve impedir o cadastro quando houver informações obrigatórias inválidas ou ausentes.
+
+**Prioridade:** Essencial
+**Faz parte do MVP:** Sim
+
+### História 10 — Acesso à plataforma
+
+- **Ator relacionado:** Corpo Docente e Responsável Legal 
+- **Necessidade relacionada:** Necessidade de acesso aos materiais e recursos pedagógicos disponibilizados pela plataforma para auxiliar a aprendizagem e o desenvolvimento da criança. 
+
+**História:**
+
+> Como professor que atua com estudantes com Síndrome de Down e TEA ou familiar, quero realizar login na plataforma, para acessar os materiais e recursos disponíveis, de acordo com o meu perfil de usuário.
+
+**Critérios de aceitação:**
+
+- O usuário deve conseguir acessar a tela de login.
+- O usuário deve conseguir informar seus dados de acesso.
+- O sistema deve validar as informações fornecidas pelo usuário.
+- O sistema deve impedir o acesso quando os dados informados forem inválidos.
+
+**Prioridade:** Essencial
+**Faz parte do MVP:** Sim
 
 ## 2. Resumo do MVP
 
 ### Histórias incluídas no MVP
 
-- [História 01 — Buscar materiais pedagógicos adaptados para estudantes com Síndrome de Down e TEA]
-- [História 03 — Acesso aos materiais pelos responsáveis]
+- História 01 — Buscar materiais pedagógicos adaptados para estudantes com Síndrome de Down e TEA
+- História 03 — Acesso aos materiais pelos responsáveis
+- História 08 — Cadastro de professor
+- História 09 — Cadastro de responsável
+- História 10 — Acesso à plataforma
 
 ### Resumo do MVP
 
-A primeira versão funcional do inLib deverá facilitar o acesso de professores e responsáveis legais a materiais e recursos pedagógicos adaptados para crianças com Síndrome de Down e Transtorno do Espectro Autista (TEA). O sistema deverá permitir que o professor e responsável pesquise e filtre materiais de acordo com o público e as necessidades de aprendizagem, visualize suas informações e acesse os recursos disponíveis.
+A primeira versão funcional do inLib deverá permitir o cadastro e acesso de professores e responsáveis à plataforma, oferecendo um catálogo de materiais pedagógicos adaptados para crianças com Síndrome de Down e TEA. O sistema deverá permitir pesquisar, filtrar e visualizar os materiais disponíveis, facilitando o acesso a recursos adequados às necessidades de aprendizagem das crianças. Nesta primeira versão, o foco do MVP será centralizar e facilitar o acesso aos materiais pedagógicos adaptados, enquanto funcionalidades como planejamento individualizado, acompanhamento da aprendizagem, elaboração de atividades e comunicação entre professor e responsável poderão ser desenvolvidas em versões futuras.

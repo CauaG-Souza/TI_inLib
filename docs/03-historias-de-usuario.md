@@ -135,7 +135,7 @@
 **Prioridade:** Futuro
 **Faz parte do MVP:** Não
 
-### História 08 — Cadastro de professor
+### História 08 — Cadastro de Corpo Docente
 
 - **Ator relacionado:** Corpo Docente
 - **Necessidade relacionada:** Necessidade de acesso a recursos pedagógicos e suporte que auxiliem o professor no desenvolvimento de práticas adequadas para estudantes com TEA e Síndrome de Down.

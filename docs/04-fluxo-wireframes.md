@@ -21,7 +21,7 @@
 - O responsável legal realizar o seu cadastro, se necessário, para acessar o sistema.
  
  **Ator:**
-- Corpo Docente
+- Responsável Legal
  
 **Histórias de Usuário relacionadas:**
 - História 09 — Cadastro de responsável

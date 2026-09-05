@@ -196,11 +196,11 @@
 
 ### Histórias incluídas no MVP
 
-- História 01 — Buscar materiais pedagógicos adaptados para estudantes com Síndrome de Down e TEA
-- História 03 — Acesso aos materiais pelos responsáveis
-- História 08 — Cadastro de professor
-- História 09 — Cadastro de responsável
-- História 10 — Acesso à plataforma
+- História 01 — Buscar materiais pedagógicos adaptados para estudantes com Síndrome de Down e TEA.
+- História 03 — Acesso aos materiais pelos responsáveis.
+- História 08 — Cadastro de professor.
+- História 09 — Cadastro de responsável.
+- História 10 — Acesso à plataforma.
 
 ### Resumo do MVP
 

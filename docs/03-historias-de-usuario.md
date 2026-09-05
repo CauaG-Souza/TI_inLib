@@ -84,7 +84,7 @@
 ### História 05 — Acompanhamento do nível de aprendizagem
 
 - **Ator relacionado:** Responsável legal 
-- **Necessidade relacionada:** Necesidade de acompanhar o desenvolvimento da criança e ter acesso a materiais adaptados para auxiliar sua aprendizagem.
+- **Necessidade relacionada:** Necessidade de acompanhar o desenvolvimento da criança e ter acesso a materiais adaptados para auxiliar sua aprendizagem.
 
 **História:**
 

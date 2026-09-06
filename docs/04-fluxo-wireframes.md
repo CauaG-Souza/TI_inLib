@@ -47,6 +47,27 @@
 **Diagrama:**
  - [\[User Flow 3 - Busca e acesso aos materiais\]](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=User%20Flow%203%20%E2%80%94%20Busca%20e%20acesso%20aos%20materiais.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1_1GD4Mwld5MG0YJvW1aC6Jae7XOa_Y-H%26export%3Ddownload)
 
+### Fluxo 04 — Planejamento, atividades e comunicação
+
+**Objetivo do usuário:**
+
+* Permitir que professores criem e gerenciem planejamentos educacionais individualizados, elaborem atividades adaptadas às necessidades dos estudantes e mantenham a comunicação com os responsáveis para acompanhar o desenvolvimento da criança.
+
+**Ator:**
+
+* Corpo Docente e Responsável Legal
+
+**Histórias de Usuário relacionadas:**
+
+* História 02 — Planejamento de ensino individualizado para estudantes com Síndrome de Down e Autismo.
+* História 06 — Elaboração de atividades.
+* História 07 — Canal de comunicação entre responsável e professor.
+
+**Diagrama:**
+
+* [[User Flow — Planejamento, atividades e comunicação]](https://app.diagrams.net/#G1seaAIuG98MGUHxJbwEGOqDzUt_ag2_6Z#%7B%22pageId%22%3A%22FLqbRzWqSGMqGI3IDefw%22%7D)
+
+
 ## 2. Wireframes
  
 [esta seção será desenvolvida na próxima atividade]

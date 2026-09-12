@@ -45,30 +45,548 @@
 - História 03 — Acesso aos materiais pelos responsáveis.
  
 **Diagrama:**
- - [\[User Flow 3 - Busca e acesso aos materiais\]](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=User%20Flow%203%20%E2%80%94%20Busca%20e%20acesso%20aos%20materiais.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1_1GD4Mwld5MG0YJvW1aC6Jae7XOa_Y-H%26export%3Ddownload)
+ - [\[User Flow 3 - Busca e acesso aos materiais\]](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=User%20Flow%2003%20%E2%80%94%20Busca%20e%20acesso%20aos%20materiais&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1YSe4OED6Se6HJAUASo4ZLhriE4aW9802%26export%3Ddownload)
+
+
+### Fluxo 04 — Uso dos materiais e acompanhamento
+
+**Objetivo do usuário:**
+
+- O responsável informar as necessidades, preferências e particularidades da criança e acompanhar seu nível de aprendizagem e desenvolvimento.
+
+**Ator:**
+
+- Responsável legal
+
+**Histórias de Usuário relacionadas:**
+
+- História 04 — Informar necessidades e particularidades da criança
+- História 05 — Acompanhamento do nível de aprendizagem
+
+**Diagrama:**
+
+- [\[User Flow 4 - Uso dos materiais e acomapnhamento\]](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=User%20Flow%2004%20%E2%80%94%20Uso%20dos%20materiais%20e%20acompanhamento.drawio&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22P%C3%A1gina-1%22%20id%3D%22geMToWpBZgCpc1PWf9BQ%22%3E7VrbcpswEP0aP6ZjgwH7MbFzcZuknXoml74pIIMygKiQb%2Fn6rkA21%2FiCwZnp8JAELWKRzu45Wil01JG3umUocB6ohd2O0rVWHXXcUZTeUNPhj7CspaWnDGOLzYglbYlhSj6wNHaldU4sHGY6ckpdToKs0aS%2Bj02esSHG6DLbbUbd7FsDZOOCYWoit2h9JhZ3YutAMRL7HSa2s3lzT5fz89Cms5xJ6CCLLlMm9bqjjhilPL7yViPsCvQ2uMTP3Xxydzswhn1%2ByAN%2FjaeHV0YfFXT3%2BzVED6P1u35R4kWaQr7eYAB%2BAG5oXC0dwvE0QKa4s4SQg83hngutHlzCFAM88UMImbSgMIijMiMrDAO5ip0vkDuXziePk9HkpzRjxvEqNQw5k1tMPczZGro4KbAHEtllKjDSJJ2oumyvs1mFZFbYW8cJcHAhsTsCRyX2i61CNu0CNsJLgOPi1aVIVgAI%2B5a8HJsuCkNiZjFmdO5bAspxtwzO%2FahpEgOGXcTJIjveFJTaDqzkG35RApNL0B4Ov2k5vHNOQjpnJpbPpZN1v6v8eDhiNuYFV1H4tlOvHlH1iIhGk9rPsjSlwO1UNinjDrWpj9zrxJqLc9LnntJApsI75nwtJRPNOc0mCgFBZKL3M1oHAqVQ3sArwl%2BEX0A4br2m7oxX8pVRY53JsxjyfRMtpl9pqp3CwRfjg9z%2FnX03%2B%2Fhxzp97P4w%2FF4dpWRbWPXpWYNelicMQMTBS%2BJn49%2BStknL1i8rVU3LS1c9Jl16DdpXipjSP2xS72CSQvgI6JJZrRpDfGamdSwNVQlA9HkGlMQS1Vv3LJHtb%2Bhyr%2Fv3unsjVp%2F2l8dTbeJbFU61vNd9y80wRNQ4J4GkaN%2FFnlHmRwsFOBNYJYiGxdVFG4sUMzzCLBO%2FSNwnMWtFdGMjVGxNzVXSbRz67Iu3igXJizl3ENl4qaKR%2BvEaqu%2FLkJI0ctJwqI0K%2FLo3sn1kjh80zCmjRUdSeeHSK3EVELRKzLC4dxO8rTbBj2zFzWU9ltmdP2Teaosxmt9pyJssZrSpnSlydmTW9M2xSUhRI9ivIpF6AfAd58F6aYYlYcyxRlCNYpXyLfCAbezVSqsIypDXHKaXlVBkR9HxBVp1T%2BuDMnDpm%2B5U6qtlJ0P%2FqrGbHTL%2FssGbQvBA%2BkXCOXNCzqCaPSobxIvoHBeJwY0cJbuGCHFYQPu144dOHjZ3ytMVEqVoZeSfVhc%2FIB69h4TssgrUVExk6BYzaDIqLslIijBhGFputa5PF%2BT5CDfJnFvURqq0kSlkwrGtHW3DUNJ3Ur6MT8AR7AfadT0rz7Hl592ur82FznGpP0ks5NahvkRqce5FqD9PLZTK%2FxT3hX%2BPd%2FHcNTcf0oOK90c9GbiYPleSuyjcj%2BXXoALmDZvJlTwx78oGUev0P%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
 
 ### Fluxo 05 — Planejamento, atividades e comunicação
 
 **Objetivo do usuário:**
 
-* Permitir que professores criem e gerenciem planejamentos educacionais individualizados, elaborem atividades adaptadas às necessidades dos estudantes e mantenham a comunicação com os responsáveis para acompanhar o desenvolvimento da criança.
+- Permitir que professores criem e gerenciem planejamentos educacionais individualizados, elaborem atividades adaptadas às necessidades dos estudantes e mantenham a comunicação com os responsáveis para acompanhar o desenvolvimento da criança.
 
 **Ator:**
 
-* Corpo Docente e Responsável Legal
+- Corpo Docente e Responsável Legal
 
 **Histórias de Usuário relacionadas:**
 
-* História 02 — Planejamento de ensino individualizado para estudantes com Síndrome de Down e Autismo.
-* História 06 — Elaboração de atividades.
-* História 07 — Canal de comunicação entre responsável e professor.
+- História 02 — Planejamento de ensino individualizado para estudantes com Síndrome de Down e Autismo.
+- História 06 — Elaboração de atividades.
+- História 07 — Canal de comunicação entre responsável e professor.
 
 **Diagrama:**
 
-* [[User Flow — Planejamento, atividades e comunicação]](https://app.diagrams.net/#G1seaAIuG98MGUHxJbwEGOqDzUt_ag2_6Z#%7B%22pageId%22%3A%22FLqbRzWqSGMqGI3IDefw%22%7D)
+- [[User Flow 05 - Planejamento, atividades e comunicação]](https://app.diagrams.net/#G1seaAIuG98MGUHxJbwEGOqDzUt_ag2_6Z#%7B%22pageId%22%3A%22FLqbRzWqSGMqGI3IDefw%22%7D)
 
 
-## 2. Wireframes
- 
-[esta seção será desenvolvida na próxima atividade]
+# 2. Wireframes
 
+## Tela 01 — Tela inicial
+
+**Objetivo da tela:**
+
+Permitir que o usuário escolha seu perfil para acessar a plataforma.
+
+**User Flows relacionados:**
+
+- Fluxo 01 — Cadastro e acesso de professor
+- Fluxo 02 — Cadastro e acesso de responsável
+- Fluxo 03 — Busca e acesso aos materiais
+
+**Wireframe:**
+
+![Wireframe 01 — Tela inicial](assets/img/01_tela_inicial.png)
+
+**Principais elementos da tela:**
+
+- Logo do inLib
+- Mensagem sobre educação inclusiva
+- Botão "Sou professor"
+- Botão "Sou responsável"
+- Barra de navegação do navegador
+
+---
+
+## Tela 02 — Cadastro de professor
+
+**Objetivo da tela:**
+
+Permitir que o professor crie uma conta na plataforma.
+
+**User Flow relacionado:**
+
+- Fluxo 01 — Cadastro e acesso de professor
+
+**História de Usuário relacionada:**
+
+- HU08 — Cadastro de professor
+
+**Wireframe:**
+
+![Wireframe 02 — Cadastro de professor](assets/img/02_cadastro_de_professor.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Nome completo
+- E-mail
+- Senha
+- Confirmação de senha
+- Matéria/área de atuação
+- Botão "Criar cadastro"
+- Link "Fazer login"
+- Botão "Voltar"
+
+---
+
+## Tela 03 — Login de professor
+
+**Objetivo da tela:**
+
+Permitir que o professor acesse a plataforma com suas credenciais.
+
+**User Flow relacionado:**
+
+- Fluxo 01 — Cadastro e acesso de professor
+
+**História de Usuário relacionada:**
+
+- HU10 — Acesso à plataforma
+
+**Wireframe:**
+
+![Wireframe 03 — Login de professor](assets/img/03_login_de_professor.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Título "Acesso do professor"
+- Campo de e-mail
+- Campo de senha
+- Botão "Entrar"
+- Link "Criar cadastro"
+- Botão "Voltar"
+
+---
+
+## Tela 04 — Área do professor
+
+**Objetivo da tela:**
+
+Oferecer ao professor acesso às principais funcionalidades da plataforma.
+
+**User Flows relacionados:**
+
+- Fluxo 01 — Cadastro e acesso de professor
+- Fluxo 05 — Planejamento, atividades e comunicação
+
+**Histórias de Usuário relacionadas:**
+
+- HU02 — Planejamento de ensino individualizado
+- HU06 — Elaboração de atividades
+- HU07 — Canal de comunicação entre responsável e professor
+
+**Wireframe:**
+
+![Wireframe 04 — Área do professor](assets/img/04_area_do_professor.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Menu lateral
+- Turmas
+- Materiais
+- Planejamento
+- Atividades
+- Comunicação
+- Perfil
+- Mensagem de boas-vindas
+- Busca de materiais
+- Botão "Buscar materiais"
+
+---
+
+## Tela 05 — Cadastro de responsável
+
+**Objetivo da tela:**
+
+Permitir que o responsável crie uma conta na plataforma.
+
+**User Flow relacionado:**
+
+- Fluxo 02 — Cadastro e acesso de responsável
+
+**História de Usuário relacionada:**
+
+- HU09 — Cadastro de responsável
+
+**Wireframe:**
+
+![Wireframe 05 — Cadastro de responsável](assets/img/05_cadastro_de_responsvel.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Nome completo
+- E-mail
+- Senha
+- Confirmação de senha
+- Botão "Criar cadastro"
+- Link "Fazer login"
+- Botão "Voltar"
+
+---
+
+## Tela 06 — Login de responsável
+
+**Objetivo da tela:**
+
+Permitir que o responsável acesse a plataforma com suas credenciais.
+
+**User Flow relacionado:**
+
+- Fluxo 02 — Cadastro e acesso de responsável
+
+**História de Usuário relacionada:**
+
+- HU10 — Acesso à plataforma
+
+**Wireframe:**
+
+![Wireframe 06 — Login de responsável](assets/img/06_login_de_responsvel.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Título "Acesso do responsável"
+- Campo de e-mail
+- Campo de senha
+- Botão "Entrar"
+- Link "Criar cadastro"
+- Botão "Voltar"
+
+---
+
+## Tela 07 — Área do responsável
+
+**Objetivo da tela:**
+
+Oferecer ao responsável acesso aos materiais e às informações relacionadas à criança.
+
+**User Flows relacionados:**
+
+- Fluxo 02 — Cadastro e acesso de responsável
+- Fluxo 04 — Informar necessidades e acompanhamento
+
+**Histórias de Usuário relacionadas:**
+
+- HU03 — Acesso aos materiais pelos responsáveis
+- HU04 — Informar necessidades e particularidades da criança
+- HU05 — Acompanhamento do nível de aprendizagem
+
+**Wireframe:**
+
+![Wireframe 07 — Área do responsável](assets/img/07_rea_do_responsvel.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Menu lateral
+- Materiais
+- Informações da criança
+- Acompanhamento
+- Comunicação
+- Perfil
+- Mensagem de boas-vindas
+- Área de acesso aos materiais
+- Identificação do usuário
+
+---
+
+## Tela 08 — Busca de materiais
+
+**Objetivo da tela:**
+
+Permitir a pesquisa e filtragem de materiais pedagógicos adaptados.
+
+**User Flow relacionado:**
+
+- Fluxo 03 — Busca e acesso aos materiais
+
+**Histórias de Usuário relacionadas:**
+
+- HU01 — Buscar materiais pedagógicos adaptados
+- HU03 — Acesso aos materiais pelos responsáveis
+
+**Wireframe:**
+
+![Wireframe 08 — Busca de materiais](assets/img/08_busca_de_materiais.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Campo de pesquisa
+- Botão "Pesquisar"
+- Filtros
+- Faixa etária
+- Necessidade
+- Tipo de material
+- Botão "Aplicar filtros"
+
+---
+
+## Tela 09 — Resultados da busca
+
+**Objetivo da tela:**
+
+Apresentar os materiais encontrados de acordo com a pesquisa realizada.
+
+**User Flow relacionado:**
+
+- Fluxo 03 — Busca e acesso aos materiais
+
+**Histórias de Usuário relacionadas:**
+
+- HU01 — Buscar materiais pedagógicos adaptados
+- HU03 — Acesso aos materiais pelos responsáveis
+
+**Wireframe:**
+
+![Wireframe 09 — Resultados da busca](assets/img/09_resultados_da_busca.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Campo de pesquisa
+- Filtros aplicados
+- Lista de materiais
+- Informações dos materiais
+- Botões "Visualizar"
+
+---
+
+## Tela 10 — Visualização do material
+
+**Objetivo da tela:**
+
+Permitir que o usuário consulte os detalhes de um material antes de acessá-lo.
+
+**User Flow relacionado:**
+
+- Fluxo 03 — Busca e acesso aos materiais
+
+**Histórias de Usuário relacionadas:**
+
+- HU01 — Buscar materiais pedagógicos adaptados
+- HU03 — Acesso aos materiais pelos responsáveis
+
+**Wireframe:**
+
+![Wireframe 10 — Visualização do material](assets/img/10_visualização_do_material.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Título "Detalhes do material"
+- Nome do material
+- Informações do material
+- Faixa etária
+- Necessidades atendidas
+- Orientações de utilização
+- Botão "Abrir material"
+- Botão "Voltar aos resultados"
+
+---
+
+# Fluxo 05 — Professor
+
+## Tela 11 — Seleção da criança
+
+**Objetivo da tela:**
+
+Permitir que o professor selecione o estudante para iniciar seu planejamento.
+
+**User Flow relacionado:**
+
+- Fluxo 05 — Planejamento, atividades e comunicação
+
+**História de Usuário relacionada:**
+
+- HU02 — Planejamento de ensino individualizado
+
+**Wireframe:**
+
+![Wireframe 11 — Seleção da criança](assets/img/11_seleção_criança.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Menu lateral do professor
+- Título "Selecionar criança"
+- Lista de estudantes
+- Nome e idade dos estudantes
+- Ano/turma
+- Seleção do estudante
+
+---
+
+## Tela 12 — Planejamento individualizado
+
+**Objetivo da tela:**
+
+Permitir que o professor registre o planejamento individualizado do estudante.
+
+**User Flow relacionado:**
+
+- Fluxo 05 — Planejamento, atividades e comunicação
+
+**História de Usuário relacionada:**
+
+- HU02 — Planejamento de ensino individualizado
+
+**Wireframe:**
+
+![Wireframe 12 — Planejamento individualizado](assets/img/12_planejamento_individualizado.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Menu lateral do professor
+- Identificação do estudante
+- Metas de aprendizagem
+- Estratégias pedagógicas
+- Cronograma
+- Observações
+- Botão "Salvar planejamento"
+
+## Tela 13 — Atividades
+
+**Objetivo da tela:**
+
+Permitir que o professor selecione uma turma e um aluno, utilize materiais de apoio da plataforma e elabore uma atividade adaptada para o estudante, podendo pré-visualizá-la e baixá-la.
+
+**User Flow relacionado:**
+
+- Fluxo 05 — Planejamento, atividades e comunicação
+
+**História de Usuário relacionada:**
+
+- HU06 — Elaboração de atividades
+
+**Wireframe:**
+
+![Wireframe 13 — Atividades](assets/img/13_atividades.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Menu lateral do professor
+- Seleção de turma
+- Seleção do aluno
+- Objetivo/nível
+- Pesquisa e seleção de material de apoio
+- Título da atividade
+- Enunciado/instruções
+- Questões/exercícios
+- Botão "Pré-visualizar atividade"
+- Botão "Adicionar questão / exercício"
+- Botão "Baixar atividade"
+
+## Tela 14 — Comunicação
+
+**Objetivo da tela:**
+
+Permitir que o professor selecione um responsável, acompanhe a conversa e envie mensagens, podendo também anexar materiais ou orientações.
+
+**User Flow relacionado:**
+
+- Fluxo 05 — Planejamento, atividades e comunicação
+
+**História de Usuário relacionada:**
+
+- HU07 — Canal de comunicação entre responsável e professor
+
+**Wireframe:**
+
+![Wireframe 14 — Comunicação](assets/img/14_comunicação.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Menu lateral do professor
+- Seleção do responsável
+- Busca de responsável
+- Lista de responsáveis
+- Identificação da criança
+- Área da conversa
+- Histórico de mensagens
+- Campo para nova mensagem
+- Botão "Enviar"
+- Opção "Anexar material/orientação"
+
+## Tela 15 — Informações da criança
+
+**Objetivo da tela:**
+
+Permitir que o responsável registre informações importantes sobre a criança.
+
+**User Flow relacionado:**
+
+- Fluxo 04 — Informar necessidades e acompanhamento
+
+**História de Usuário relacionada:**
+
+- HU04 — Informar necessidades e particularidades da criança
+
+**Wireframe:**
+
+![Wireframe 15 — Informações da criança](assets/img/15_informações_da_criança.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Menu lateral do responsável
+- Identificação da criança
+- Necessidades de aprendizagem
+- Preferências
+- Particularidades
+- Observações
+- Botão "Salvar informações"
+
+## Tela 16 — Acompanhamento da aprendizagem
+
+**Objetivo da tela:**
+
+Permitir que o responsável visualize o nível e a evolução da aprendizagem da criança.
+
+**User Flow relacionado:**
+
+- Fluxo 04 — Informar necessidades e acompanhamento
+
+**História de Usuário relacionada:**
+
+- HU05 — Acompanhamento do nível de aprendizagem
+
+**Wireframe:**
+
+![Wireframe 16 — Acompanhamento da aprendizagem](assets/img/16_acompanhamento_da_aprendizagem.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Menu lateral do responsável
+- Identificação da criança
+- Nível atual de aprendizagem
+- Atividades realizadas
+- Desempenho
+- Progresso nas atividades
+- Observações do professor

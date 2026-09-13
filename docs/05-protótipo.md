@@ -38,9 +38,9 @@
  
 **Protótipo:**
 
-![Protótipo 01 — Tela inicial (Tema claro)](protótipo_01_tela_inicial_claro.png)
+![Protótipo 01 — Tela inicial (Tema claro)](assets/img/protótipo_01_tela_inicial_claro.png)
 
-![Protótipo 01 — Tela inicial (Tema escuro)](protótipo_01_tela_inicial_escuro.png)
+![Protótipo 01 — Tela inicial (Tema escuro)](assets/img/protótipo_01_tela_inicial_escuro.png)
  
 ---
  
@@ -60,9 +60,9 @@
 
 **Protótipo:**
 
-![Protótipo 02 — Acesso do professor (Tema claro)](protótipo_02_acesso_do_professor_claro.png)
+![Protótipo 02 — Acesso do professor (Tema claro)](assets/img/protótipo_02_acesso_do_professor_claro.png)
 
-![Protótipo 02 — Acesso do professor (Tema escuro)](protótipo_02_acesso_do_professor_escuro.png)
+![Protótipo 02 — Acesso do professor (Tema escuro)](assets/img/protótipo_02_acesso_do_professor_escuro.png)
 
 ---
 
@@ -82,9 +82,9 @@
 
 **Protótipo:**
  
-![Protótipo 03 — Cadastro de professor (Tema claro)](protótipo_03_cadastro_de_professor_claro.png)
+![Protótipo 03 — Cadastro de professor (Tema claro)](assets/img/protótipo_03_cadastro_de_professor_claro.png)
 
-![Protótipo 03 — Cadastro de professor (Tema escuro)](protótipo_03_cadastro_de_professor_escuro.png)
+![Protótipo 03 — Cadastro de professor (Tema escuro)](assets/img/protótipo_03_cadastro_de_professor_escuro.png)
 
 ---
 

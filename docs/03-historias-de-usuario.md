@@ -149,7 +149,7 @@
 - O professor deve conseguir acessar a tela de cadastro.
 - O professor deve conseguir informar seus dados para criar uma conta.
 - O sistema deve validar os campos obrigatórios do cadastro.
-- O sistema deve impedir o cadastro quando houver informações       obrigatórias inválidas ou ausentes.
+- O sistema deve impedir o cadastro quando houver informações obrigatórias inválidas ou ausentes.
 
 **Prioridade:** Essencial
 **Faz parte do MVP:** Sim

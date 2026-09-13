@@ -102,6 +102,14 @@ Permitir que o usuário escolha seu perfil para acessar a plataforma.
 - Fluxo 02 — Cadastro e acesso de responsável
 - Fluxo 03 — Busca e acesso aos materiais
 
+**Histórias de Usuário relacionada:**
+
+- HU01 — Buscar materiais pedagógicos adaptados para estudantes com Síndrome de Down e TEA
+- HU03 — Acesso aos materiais pelos responsáveis
+- HU08 — Cadastro de professor
+- HU09 — Cadastro de responsável 
+- HU10 — Acesso à plataforma
+
 **Wireframe:**
 
 ![Wireframe 01 — Tela inicial](assets/img/01_tela_inicial.png)
@@ -116,39 +124,7 @@ Permitir que o usuário escolha seu perfil para acessar a plataforma.
 
 ---
 
-## Tela 02 — Cadastro de professor
-
-**Objetivo da tela:**
-
-Permitir que o professor crie uma conta na plataforma.
-
-**User Flow relacionado:**
-
-- Fluxo 01 — Cadastro e acesso de professor
-
-**História de Usuário relacionada:**
-
-- HU08 — Cadastro de professor
-
-**Wireframe:**
-
-![Wireframe 02 — Cadastro de professor](assets/img/02_cadastro_de_professor.png)
-
-**Principais elementos da tela:**
-
-- Logo
-- Nome completo
-- E-mail
-- Senha
-- Confirmação de senha
-- Matéria/área de atuação
-- Botão "Criar cadastro"
-- Link "Fazer login"
-- Botão "Voltar"
-
----
-
-## Tela 03 — Login de professor
+## Tela 02 — Login de professor
 
 **Objetivo da tela:**
 
@@ -164,7 +140,7 @@ Permitir que o professor acesse a plataforma com suas credenciais.
 
 **Wireframe:**
 
-![Wireframe 03 — Login de professor](assets/img/03_login_de_professor.png)
+![Wireframe 02 — Login de professor](assets/img/02_login_de_professor.png)
 
 **Principais elementos da tela:**
 
@@ -174,6 +150,38 @@ Permitir que o professor acesse a plataforma com suas credenciais.
 - Campo de senha
 - Botão "Entrar"
 - Link "Criar cadastro"
+- Botão "Voltar"
+
+---
+
+## Tela 03 — Cadastro de professor
+
+**Objetivo da tela:**
+
+Permitir que o professor crie uma conta na plataforma.
+
+**User Flow relacionado:**
+
+- Fluxo 01 — Cadastro e acesso de professor
+
+**História de Usuário relacionada:**
+
+- HU08 — Cadastro de professor
+
+**Wireframe:**
+
+![Wireframe 03 — Cadastro de professor](assets/img/03_cadastro_de_professor.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Nome completo
+- E-mail
+- Senha
+- Confirmação de senha
+- Matéria/área de atuação
+- Botão "Criar cadastro"
+- Link "Fazer login"
 - Botão "Voltar"
 
 ---
@@ -215,38 +223,7 @@ Oferecer ao professor acesso às principais funcionalidades da plataforma.
 
 ---
 
-## Tela 05 — Cadastro de responsável
-
-**Objetivo da tela:**
-
-Permitir que o responsável crie uma conta na plataforma.
-
-**User Flow relacionado:**
-
-- Fluxo 02 — Cadastro e acesso de responsável
-
-**História de Usuário relacionada:**
-
-- HU09 — Cadastro de responsável
-
-**Wireframe:**
-
-![Wireframe 05 — Cadastro de responsável](assets/img/05_cadastro_de_responsvel.png)
-
-**Principais elementos da tela:**
-
-- Logo
-- Nome completo
-- E-mail
-- Senha
-- Confirmação de senha
-- Botão "Criar cadastro"
-- Link "Fazer login"
-- Botão "Voltar"
-
----
-
-## Tela 06 — Login de responsável
+## Tela 05 — Login de responsável
 
 **Objetivo da tela:**
 
@@ -262,7 +239,7 @@ Permitir que o responsável acesse a plataforma com suas credenciais.
 
 **Wireframe:**
 
-![Wireframe 06 — Login de responsável](assets/img/06_login_de_responsvel.png)
+![Wireframe 05 — Login de responsável](assets/img/05_login_de_responsvel.png)
 
 **Principais elementos da tela:**
 
@@ -272,6 +249,37 @@ Permitir que o responsável acesse a plataforma com suas credenciais.
 - Campo de senha
 - Botão "Entrar"
 - Link "Criar cadastro"
+- Botão "Voltar"
+
+---
+
+## Tela 06 — Cadastro de responsável
+
+**Objetivo da tela:**
+
+Permitir que o responsável crie uma conta na plataforma.
+
+**User Flow relacionado:**
+
+- Fluxo 02 — Cadastro e acesso de responsável
+
+**História de Usuário relacionada:**
+
+- HU09 — Cadastro de responsável
+
+**Wireframe:**
+
+![Wireframe 06 — Cadastro de responsável](assets/img/06_cadastro_de_responsvel.png)
+
+**Principais elementos da tela:**
+
+- Logo
+- Nome completo
+- E-mail
+- Senha
+- Confirmação de senha
+- Botão "Criar cadastro"
+- Link "Fazer login"
 - Botão "Voltar"
 
 ---
@@ -407,8 +415,6 @@ Permitir que o usuário consulte os detalhes de um material antes de acessá-lo.
 
 ---
 
-# Fluxo 05 — Professor
-
 ## Tela 11 — Seleção da criança
 
 **Objetivo da tela:**
@@ -468,6 +474,8 @@ Permitir que o professor registre o planejamento individualizado do estudante.
 - Observações
 - Botão "Salvar planejamento"
 
+---
+
 ## Tela 13 — Atividades
 
 **Objetivo da tela:**
@@ -501,6 +509,8 @@ Permitir que o professor selecione uma turma e um aluno, utilize materiais de ap
 - Botão "Adicionar questão / exercício"
 - Botão "Baixar atividade"
 
+---
+
 ## Tela 14 — Comunicação
 
 **Objetivo da tela:**
@@ -533,6 +543,8 @@ Permitir que o professor selecione um responsável, acompanhe a conversa e envie
 - Botão "Enviar"
 - Opção "Anexar material/orientação"
 
+---
+
 ## Tela 15 — Informações da criança
 
 **Objetivo da tela:**
@@ -561,6 +573,8 @@ Permitir que o responsável registre informações importantes sobre a criança.
 - Particularidades
 - Observações
 - Botão "Salvar informações"
+
+---
 
 ## Tela 16 — Acompanhamento da aprendizagem
 

@@ -303,7 +303,7 @@ Oferecer ao responsável acesso aos materiais e às informações relacionadas �
 
 **Wireframe:**
 
-![Wireframe 07 — Área do responsável](assets/img/07_rea_do_responsvel.png)
+![Wireframe 07 — Área do responsável](assets/img/07_area_do_responsavel.png)
 
 **Principais elementos da tela:**
 
